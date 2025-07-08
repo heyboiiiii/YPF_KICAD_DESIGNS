@@ -1,4 +1,11 @@
-25677971705382392
+25688470611572278
+ACS_MODULE
+Untitled
+
+
+0
+1
+1
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60213,6 +60220,13 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+GY-NEO6MV2
+GY-NEO6MV2
+
+
+0
+4
+4
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -67864,6 +67878,20 @@ Yellow 5381 Series LED
 0
 2
 2
+LORA
+SHIELD XL1278
+
+
+0
+6
+6
+LORA
+XL1278
+
+
+0
+14
+14
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -68193,6 +68221,13 @@ module pcb
 0
 7
 7
+Modulos_desafio_eco
+tft_3.5_display
+
+
+0
+18
+18
 Motors
 Vybronics_VZ30C1T8219732L
 Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf
@@ -102962,10 +102997,17 @@ QFN NoLead
 0
 37
 33
-tft
-TFT-320x240
+my_esp32
+esp32
 
 
 0
-14
-14
+38
+38
+terminals_bateries
+teminals_bateries
+
+
+0
+3
+3

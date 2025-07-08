@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 2,
     "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -58,7 +58,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "computadora_auto.kicad_prl",
+    "filename": "auto.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -87,16 +87,16 @@
       9
     ],
     "col_widths": [
-      162,
-      147,
-      91,
-      67,
-      91,
-      91,
-      91,
-      71,
-      91,
-      91
+      186,
+      171,
+      112,
+      125,
+      118,
+      131,
+      131,
+      132,
+      112,
+      112
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

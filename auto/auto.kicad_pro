@@ -450,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "computadora_auto.kicad_pro",
+    "filename": "auto.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -566,7 +566,7 @@
       "include_excluded_from_bom": true,
       "name": "Default Editing",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "Referencia"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -610,7 +610,7 @@
   },
   "sheets": [
     [
-      "c706aaba-418d-4b79-bea7-2d69515e54e7",
+      "c99f8add-df86-431a-a429-54ca6a31f8a6",
       "Root"
     ]
   ],

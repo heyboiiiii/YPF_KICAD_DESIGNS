@@ -3124,6 +3124,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "FUSE 2A"
+		(exclude_from_sim no)
+		(at 36.068 149.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a7075ee1-3484-4768-8b18-a992a6670012")
+	)
 	(junction
 		(at 142.24 142.24)
 		(diameter 0)
@@ -4472,7 +4482,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
 			(at 60.325 146.05 0)
 			(effects
 				(font
@@ -6174,7 +6184,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH-12mm_Wuerth-430476085716"
 			(at 142.24 177.8 0)
 			(effects
 				(font
@@ -6381,7 +6391,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "GY-NEO6MV2:GY-NEO6MV2"
 			(at 33.02 73.66 0)
 			(effects
 				(font
@@ -6588,7 +6598,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH-12mm_Wuerth-430476085716"
 			(at 142.24 170.18 0)
 			(effects
 				(font
@@ -6870,7 +6880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W7.62mm_P2.54mm_LowProfile"
 			(at 34.29 142.24 0)
 			(effects
 				(font
@@ -6944,7 +6954,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH-12mm_Wuerth-430476085716"
 			(at 142.24 185.42 0)
 			(effects
 				(font
@@ -7225,7 +7235,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LORA:SHIELD XL1278"
 			(at 31.75 41.91 0)
 			(effects
 				(font

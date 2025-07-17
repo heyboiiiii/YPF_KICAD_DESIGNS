@@ -62,7 +62,7 @@
 			(type solid)
 		)
 		(fill no)
-		(layer "F.Cu")
+		(layer "F.SilkS")
 		(uuid "ae72e5e7-e325-477b-ac28-b3547c6b02c1")
 	)
 	(fp_text user "${REFERENCE}"

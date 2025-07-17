@@ -62,7 +62,7 @@
 			(type solid)
 		)
 		(fill no)
-		(layer "F.Cu")
+		(layer "F.SilkS")
 		(uuid "e8da555d-4097-425b-a65d-9d8493a423c0")
 	)
 	(fp_rect
@@ -70,10 +70,10 @@
 		(end 78.5 25.38)
 		(stroke
 			(width 0.2)
-			(type default)
+			(type solid)
 		)
 		(fill no)
-		(layer "F.Cu")
+		(layer "F.SilkS")
 		(uuid "af8e684f-0a1d-4515-bc63-4382ac58ffdb")
 	)
 	(fp_circle
@@ -81,10 +81,10 @@
 		(end -2.54 -22.86)
 		(stroke
 			(width 0.2)
-			(type default)
+			(type solid)
 		)
 		(fill no)
-		(layer "F.Cu")
+		(layer "F.SilkS")
 		(uuid "0d27b8cd-4a0d-4720-9df9-78a4ba5d9abb")
 	)
 	(fp_circle
@@ -92,10 +92,10 @@
 		(end -2.54 22.86)
 		(stroke
 			(width 0.2)
-			(type default)
+			(type solid)
 		)
 		(fill no)
-		(layer "F.Cu")
+		(layer "F.SilkS")
 		(uuid "00b6548a-9331-41b4-ab78-5e7e33f81860")
 	)
 	(fp_circle
@@ -103,10 +103,10 @@
 		(end 86.36 -22.86)
 		(stroke
 			(width 0.2)
-			(type default)
+			(type solid)
 		)
 		(fill no)
-		(layer "F.Cu")
+		(layer "F.SilkS")
 		(uuid "618c1c5a-5096-4120-9f12-f3340b3ff7b5")
 	)
 	(fp_circle
@@ -114,10 +114,10 @@
 		(end 83.82 20.32)
 		(stroke
 			(width 0.2)
-			(type default)
+			(type solid)
 		)
 		(fill no)
-		(layer "F.Cu")
+		(layer "F.SilkS")
 		(uuid "15b97354-300d-413d-a3c7-84f2de02c122")
 	)
 	(fp_text user "${REFERENCE}"
